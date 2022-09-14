@@ -41,7 +41,7 @@ Often your **future self** a year from now will not remember all the details fro
 ## HOW - Table of contents
 
 * [Checklist](#checklist)
-* [Other README guides](#othersources)
+* [Other README guides](#-other-readme-guides)
 * [Examples/Best Practice README.md's](#examples)
 * [Template](#template)
 * [Invitation to contribute](#contribute)
@@ -96,7 +96,7 @@ As with every other bit of code in your repository, you can create an issue, ass
 When a lot of additional information is needed, you might  want to use README.md files at different level of the project. If the varibles in the rawdata all need information, but an additional README.md on that level in your folder structure right next to all raw data files. You should mention this and potentially link it in yoiu main README.md that resides on the highest level of your GitHub repository. Adapt the naming of the file so it fits you structure (eg. README_rawdata.md)
 
 
-Other README guides
+### Other README guides
 -------------
 
 * [Official GitHub markdown cheatsheet about Formatting, integration into GitHub and more](https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf)  
