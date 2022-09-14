@@ -41,10 +41,10 @@ Often your **future self** a year from now will not remember all the details fro
 ## HOW - Table of contents
 
 * [Checklist](#checklist)
-* [Other README guides](#-other-readme-guides)
-* [Examples/Best Practice README.md's](#examples)
+* [Other README guides](#other-readme-guides)
+* [Examples/Best Practice README.md's](#examplesbest-practice-readmemds)
 * [Template](#template)
-* [Invitation to contribute](#contribute)
+* [Invitation to contribute](#invitation-to-contribute)
 
 Checklist
 ---------
@@ -106,7 +106,7 @@ The rendering of GitHub is slightly different to others, therefore this is a goo
 * [KDnugget GitHub Readme analyzer](https://www.kdnuggets.com/2016/05/algorithmia-data-science-approach-good-github-readme.html)
 
 
-Examples/Best Practice README.md's
+### Examples/Best Practice README.md's
 -------------
 
 * [Example of extensive README.md by 'Hackthon Starter'](https://github.com/sahat/hackathon-starter/)  
