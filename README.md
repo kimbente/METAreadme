@@ -11,7 +11,7 @@ This is a guide to writing README.md files for collaborative Data Science/Data m
 
 These badges contain up-to-date meta information about repositories on mainstream (non-enterprise) GitHub:  
 
-![GitHub last commit](https://img.shields.io/github/last-commit/kimbente/2019_STAT5002?color=green&style=plastic)
+![GitHub last commit](https://img.shields.io/github/last-commit/kimbente/METAreadme?color=green&style=plastic)
 ![GitHub stars](https://img.shields.io/github/stars/kimbente/github-slideshow?style=social)
 <!-- badges should work once this is non-Enterprise GitHub  -->
 
